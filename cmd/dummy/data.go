@@ -36,9 +36,9 @@ var (
 )
 
 func init() {
-	dataCmd.Flags().IntVarP(&numDataReq, "number", "n", numDataReq, "number of times data should be sent")
-	dataCmd.Flags().IntVarP(&concDataReq, "concurrency", "c", concDataReq, "number of requests to be sent concurrently")
-	dataCmd.Flags().IntVarP(&waitData, "wait", "w", waitData, "time to wait between requests in ms")
+	dataCmd.Flags().IntVarP(&numDataReq, "number", "n", numDataReq, "number of times data should be sent.")
+	dataCmd.Flags().IntVarP(&concDataReq, "concurrency", "c", concDataReq, "number of requests to be sent concurrently.")
+	dataCmd.Flags().IntVarP(&waitData, "wait", "w", waitData, "time to wait between requests in ms.")
 }
 
 type dataRequest struct {
