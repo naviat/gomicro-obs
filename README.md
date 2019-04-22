@@ -1,6 +1,6 @@
 # gomicro-obs
 
-[![Build Status](https://travis-ci.org/naviat/gomicro-obs.svg?branch=master)](https://travis-ci.org/naviat/gomicro-obs) [![Go Report Card](https://goreportcard.com/badge/github.com/naviat/go-obs)](https://goreportcard.com/report/github.com/naviat/gomicro-obs) [![](https://img.shields.io/docker/automated/naviat/ffmpeg.svg)](https://hub.docker.com/r/naviat/gomicro-obs)
+[![Build Status](https://travis-ci.org/naviat/gomicro-obs.svg?branch=master)](https://travis-ci.org/naviat/gomicro-obs) [![Go Report Card](https://goreportcard.com/report/github.com/naviat/gomicro-obs)](https://goreportcard.com/report/github.com/naviat/gomicro-obs) [![](https://img.shields.io/docker/automated/naviat/ffmpeg.svg)](https://hub.docker.com/r/naviat/gomicro-obs)
 
 ## Contents
 
