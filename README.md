@@ -1,6 +1,6 @@
-# micro-obs
+# gomicro-obs
 
-[![Build Status](https://travis-ci.org/naviat/micro-obs.svg?branch=master)](https://travis-ci.org/naviat/micro-obs) [![Go Report Card](https://goreportcard.com/badge/github.com/naviat/micro-obs)](https://goreportcard.com/report/github.com/naviat/micro-obs) [![](https://img.shields.io/docker/automated/naviat/ffmpeg.svg)](https://hub.docker.com/r/naviat/micro-obs)
+[![Build Status](https://travis-ci.org/naviat/gomicro-obs.svg?branch=master)](https://travis-ci.org/naviat/gomicro-obs) [![Go Report Card](https://goreportcard.com/badge/github.com/naviat/go-obs)](https://goreportcard.com/report/github.com/naviat/gomicro-obs) [![](https://img.shields.io/docker/automated/naviat/ffmpeg.svg)](https://hub.docker.com/r/naviat/gomicro-obs)
 
 ## Contents
 
@@ -76,7 +76,7 @@ To build it from source you need [Go 1.11+](https://golang.org/dl/) installed.
 This project uses [Go Modules](https://github.com/golang/go/wiki/Modules) so you can clone the repo to anywhere:
 
 ```bash
-git clone https://github.com/obitech/micro-obs.git
+git clone https://github.com/naviat/gomicro-obs.git
 cd micro-obs/
 ```
 
@@ -246,8 +246,8 @@ Both the Kubernetes' internal components as well as the `micro-obs` application 
 
 TODO
 
-## [item](https://godoc.org/github.com/obitech/micro-obs/item)
-[![godoc reference for item](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/obitech/micro-obs/item) 
+## [item](https://godoc.org/github.com/naviat/gomicro-obs/item)
+[![godoc reference for item](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/naviat/gomicro-obs/item) 
 
 Method|Endpoint|Comment
 ---|---|---
@@ -312,8 +312,8 @@ Response:
 }
 ```
 
-## [order](https://godoc.org/github.com/obitech/micro-obs/order)
-[![godoc reference for ](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/obitech/micro-obs/order) 
+## [order](https://godoc.org/github.com/naviat/gomicro-obs/order)
+[![godoc reference for ](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/naviat/gomicro-obs/order) 
 
 Method|Endpoint|Comment
 ---|---|---
@@ -367,8 +367,8 @@ Response:
 }
 ```
 
-## [util](https://godoc.org/github.com/obitech/micro-obs/util)
-[![godoc reference for util](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/obitech/micro-obs/util) 
+## [util](https://godoc.org/github.com/naviat/gomicro-obs/util)
+[![godoc reference for util](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/naviat/gomicro-obs/util) 
 
 ## License
 
